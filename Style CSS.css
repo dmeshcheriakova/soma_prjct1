@@ -1,0 +1,199 @@
+body {
+	background-color: rgba(178,178,178,1.00);
+	background-size: cover;
+    color: rgba(255,245,0,1.00);
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	align-content: center;
+	  width: 1280px;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+
+#wrapper {max-width: 1500px;
+	border-radius: 5px;
+    border: thick solid rgba(90,89,89,1.00);
+	margin: 0 auto;
+
+}
+
+nav ul {text-align: center;
+margin-bottom: 20px;
+margin-top:0px;
+margin-left:40px;
+padding-top: 20px;}
+
+nav ul li {
+	color: antiquewhite;
+	text-align: center;
+	list-style-type: none;
+	font-size: 25px;
+	display: inline;
+	padding-right: 100px;
+}
+
+nav ul li a{ color:whitesmoke;}
+nav ul li a:hover{ 
+color: black}
+
+header {
+	width: 1275px;
+	background-color: rgba(90,89,89,1.00);
+	margin: 0 auto;
+	border-color: black;
+	padding-bottom: 1px;
+	margin-top: -10px;
+	margin-left: -5px
+}
+#logo{
+	margin-top: 6px;
+	float:left;
+	margin-left: 10px;
+}
+
+main {
+    max-width: 1500px;
+	display: inline-block;
+	
+}
+#pg1_photo{
+	padding-top: 10px;
+	margin-bottom: -10px;
+}
+
+	
+#Carstenleft{
+	margin-top: 50px;
+	float: left;
+	padding-right: 1px;
+	margin-left: -1px;
+}
+
+#Carstenright{
+	padding-top: 2px;
+	margin-top: 50px;
+	float: right;
+
+}
+
+p{
+    padding-top: 270px;
+    margin-left: 400px;
+    margin-right: 450px;
+    color: white;
+    font-size: 27px;	
+}
+
+h2{
+	margin-top: 80px;
+	margin-bottom: 30px;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 130px;
+	font-display: block;
+	float:left;
+	padding-left: 120px;
+	}
+
+#title_pg1{
+	margin-top: 100px;
+	margin-right: 00px;
+	font-size: 120px;
+}
+
+
+h3{
+	font-size: 30px;
+	padding-top: 173px;
+	padding-right: 90px;
+}
+
+#pg1_main{
+	margin-bottom: -5px;
+	margin-top: 10px;
+}
+
+.pg2_title {
+	margin-top: 80px;
+	margin-bottom: 0px;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 130px;
+	font-display: block;
+	margin-left: 130px;
+}
+
+
+#pg3_title{
+
+	margin-top: 120px;
+	font-size: 80px;
+	padding-right: 1000px;
+	margin-bottom: 0px;
+	color: rgba(255,245,0,1.00);
+	padding-left: 0px;
+}
+
+#pg3_text{
+	width: 500px;
+	float: right;
+	font-size: 25px;
+	margin-left: -40px;
+	text-align: justify;
+	color: white;
+	
+}
+
+#p3image {float: left;
+padding-right: 100px;
+padding-top: 150px;
+padding-bottom: 100px;
+}
+
+.pg4_image {
+	float:right;
+}
+
+#pg4_title {
+	font-size: 90px;
+	float:left;
+	padding-left: 50px;
+	color: rgba(255,245,0,1.00);
+	display: inline;	
+	padding-top: 30px;
+}
+
+#pg4_text{
+	width: 465px;
+	font-size: 24px;
+	color: white;
+	float:left;
+	text-align: justify;
+	padding-left: 50px;
+}
+
+h2{font-family: 'Rajdhani', sans-serif;}
+a{color: black;}
+p{
+    color: white;
+    font-weight: 650;
+    text-align: justify;
+}
+
+footer {
+	width: 1275px;
+	margin-top: 0px;
+	background-color: rgba(90,89,89,1.00);
+	padding-top: 20px;
+	padding-bottom: 22px;
+	margin-left: -5px;
+	margin-bottom: -2px;
+	color: rgba(164,164,164,1.00)
+}
+.pg1_Carsten {
+}
+.pg4_image {
+	float:right;
+	padding-bottom: 100px;
+}
+
